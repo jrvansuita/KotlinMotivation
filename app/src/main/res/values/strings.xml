@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Kotlin Motivation</string>
+    <string name="hello">Hello</string>
+    <string name="hi">Hi, %s!</string>
+    <string name="new_phrase">New Phrase</string>
+    <string name="motivation_phrase">Motivation Phrase</string>
+    <string name="let_s_start">Let\'s Start?</string>
+    <string name="what_s_your_name">What\'s your name?</string>
+    <string name="save">Save</string>
+</resources>
