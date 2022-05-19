@@ -3,12 +3,12 @@
 
 
 
-<a href="https://appetize.io/app/810xb5j8vwaxuz5tc90d1qmezc?device=pixel4&osVersion=11.0&scale=100">
+<a href="https://appetize.io/app/d2azt6eq6p2t11ungtujbnq8km?device=pixel4&osVersion=11.0&scale=100">
 <img src="https://github.com/jrvansuita/KotlinMotivation/blob/master/screenshot.png?raw=true" align="left" hspace="1" vspace="1" width="300px">
 </a>
 
 
-[![Click](https://img.shields.io/badge/Clique%20Aqui-Run%20Now-brightgreen.svg?)](https://appetize.io/app/810xb5j8vwaxuz5tc90d1qmezc?device=pixel4&osVersion=11.0&scale=100) 
+[![Click](https://img.shields.io/badge/Clique%20Aqui-Run%20Now-brightgreen.svg?)](https://appetize.io/app/d2azt6eq6p2t11ungtujbnq8km?device=pixel4&osVersion=11.0&scale=100) 
 [![APK](https://img.shields.io/badge/APK-Download-blue.svg)](https://github.com/jrvansuita/KotlinMotivation/raw/master/app.apk) 
 
 
