@@ -8,7 +8,7 @@
 </a>
 
 
-[![Click](https://img.shields.io/badge/Clique%20Aqui-Run%20Now-brightgreen.svg?)]([https://appetize.io/embed/810xb5j8vwaxuz5tc90d1qmezc?device=pixel4&osVersion=11.0&scale=100](https://appetize.io/app/810xb5j8vwaxuz5tc90d1qmezc?device=pixel4&osVersion=11.0&scale=100)) 
+[![Click](https://img.shields.io/badge/Clique%20Aqui-Run%20Now-brightgreen.svg?)](https://appetize.io/app/810xb5j8vwaxuz5tc90d1qmezc?device=pixel4&osVersion=11.0&scale=100) 
 [![APK](https://img.shields.io/badge/APK-Download-blue.svg)](https://github.com/jrvansuita/KotlinMotivation/raw/master/app.apk) 
 
 
